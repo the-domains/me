@@ -1,0 +1,23 @@
+name: Me
+favicon: null
+layout_spectrum: 0.8528409514110535
+typography_spectrum: 0.08040507580153644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3151371623389423
+  lightness: 0.20616788254119456
+  saturation: 0.7192757714074105
+  rhythmicContrast: 0.8259851492475718
+purpose: []
