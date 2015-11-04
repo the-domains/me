@@ -1,7 +1,7 @@
 name: Me
 favicon: null
-layout_spectrum: 0.8528409514110535
-typography_spectrum: 0.08040507580153644
+layout_spectrum: 0.86826
+typography_spectrum: 0.39018
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eff0f2'
-    - '#1b2019'
+    - '#394d54'
+    - '#039bc6'
+    - '#bfdbe0'
     - '#000000'
-    - '#3d4635'
-    - '#839597'
+    - '#91aaaf'
   brandStrength: 0.25
-  lightness: 0.20616788254119456
-  saturation: 0.7192757714074105
-  rhythmicContrast: 0.8259851492475718
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
