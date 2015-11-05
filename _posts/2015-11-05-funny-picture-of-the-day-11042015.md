@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://reddit.com/r/funny'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-05T05:23:37.263Z'
-dateModified: '2015-11-05T05:23:19.257Z'
+datePublished: '2015-11-05T05:29:59.980Z'
+dateModified: '2015-11-05T05:29:52.730Z'
 title: Funny Picture of the Day - 11/04/2015
+sourcePath: _posts/2015-11-05-funny-picture-of-the-day-11042015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-05-funny-picture-of-the-day-11042015.md
-published: true
-url: funny-picture-of-the-day-11042015/index.html
-_type: Article
+_type: MediaObject
 
 ---
 I still make it a priority to watch most of his stuff several times a year...
